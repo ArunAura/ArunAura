@@ -83,7 +83,13 @@
 
 <div align="center">
 
-<img src="./assets/heading-stats.svg" alt="GitHub Stats" width="100%"/>
+
+<!-- <img src="./assets/heading-stats.svg" alt="GitHub Stats" width="100%"/> -->
+
+## 📊 My GitHub Stats
+
+![ArunAura GitHub Stats](https://raw.githubusercontent.com/ArunAura/github-live-stats/main/github-stats.svg)
+
 
 <img src="./assets/stats-dashboard.svg" alt="GitHub stats dashboard" width="100%"/>
 
