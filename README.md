@@ -88,7 +88,7 @@
 
 ## 📊 My GitHub Stats
 
-![ArunAura GitHub Stats](https://raw.githubusercontent.com/ArunAura/github-live-stats/main/github-stats.svg)
+![ArunAura GitHub Stats](https://raw.githubusercontent.com/ArunAura/github-live-stats/main/github-stats.svg?v=2)
 
 
 <img src="./assets/spent-time.svg" alt="Where my time goes" width="100%"/>
